@@ -1,0 +1,1 @@
+Placeholder content for build/static/js/app.js
